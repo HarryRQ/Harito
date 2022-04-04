@@ -1,0 +1,13 @@
+.about-me{
+    font-size: 50px;
+}
+
+.rounded-divider{
+    border-top: 8px solid;
+    color: black;
+    border-radius: 5px;
+}
+
+.about-me-descrip{
+    font-size: 29px;
+}

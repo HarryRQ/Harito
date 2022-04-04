@@ -1,0 +1,36 @@
+.contact{
+    font-size: 50px;
+}
+
+.rounded-divider{
+    border-top: 8px solid;
+    color: black;
+    border-radius: 5px;
+}
+
+.contact-icons{
+    font-size: 29px;
+    position: relative;
+    padding: 12px;
+    flex: 1;
+}
+
+.cv-option a{
+    text-decoration:underline;
+    color: black;
+}
+
+.contact-icons a{
+    color: black;
+}
+
+.cv-option{
+    font-size: 29px;
+}
+
+.cv-option a{
+    text-decoration: underline;
+}
+
+
+

@@ -1,0 +1,29 @@
+.sea-icons{
+    text-decoration: none;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding: 6px;
+    margin: 6px;
+}
+
+.buttons{
+    flex: 1;
+}
+
+.sea{
+    color: black;
+}
+
+.sea-icons a{
+    color: black;
+}
+
+@media only screen and (max-width: 720px){
+    .sea-icons{
+        font-size: 30px;
+        height: 35px;
+    }
+}
+

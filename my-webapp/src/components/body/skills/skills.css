@@ -1,0 +1,14 @@
+.skills{
+    font-size: 50px;
+}
+
+.rounded-divider{
+    border-top: 8px solid;
+    color: black;
+    border-radius: 5px;
+}
+
+.skills-elements{
+font-size: 25px;
+}
+

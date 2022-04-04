@@ -1,0 +1,43 @@
+.about{
+    padding-bottom: 48px;
+}
+.about-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.harrypic{
+    height: 300px;
+    width: auto;
+}
+
+.about-info{
+    font-size: 30px;
+}
+
+@media only screen and (max-width: 720px){
+    .about-top{
+        flex-direction: column;
+        justify-content: center;
+        justify-items: center;
+    }
+
+    .harrypic{
+        height: 274px;
+    }
+
+    .about-info{
+        font-size: 25px;
+    }
+
+    .info-name{
+        font-size: 30px;
+    }
+
+    .gif{
+        height: 100px;
+        width: 12px;
+    }
+}
+
